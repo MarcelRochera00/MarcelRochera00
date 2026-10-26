@@ -4,8 +4,6 @@ Computer Engineering student at UPC. My projects usually start from curiosity: s
 
 I mostly write Python and Ruby on Rails, and I'm learning React.
 
-<img width="1278" height="722" alt="globe_rotation" src="https://github.com/user-attachments/assets/36183513-da74-48a7-a262-f1fcc8385f41" />
-
 ## Things I've made
 
 **🧬 [MYC–MAX pocket analysis](https://github.com/MarcelRochera00/myc-max-pocket-analysis)**
