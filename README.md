@@ -12,8 +12,8 @@ The code behind a paper in preparation on the identification of candidate pocket
 **⚡ [ActivityFeed](https://github.com/MarcelRochera00/activityfeed)**
 A social network to post hikes, books, concerts and more. Hikes are drawn on a map from GPX files, and books and setlists are looked up through external APIs.
 
-**📜 [Pokémon type from Pokedex entry](https://github.com/MarcelRochera00/pokedex-type-prediction)**
-I got curious whether a Pokedex entry gives away a Pokémon's type. Partly: about 50% right, against 16% for always guessing Water, the most common type. Dragon entries are the hardest to spot.
+**📜 [Pokemon type from Pokedex entry](https://github.com/MarcelRochera00/pokedex-type-prediction)**
+I got curious whether a Pokedex entry gives away a Pokemon's type. The answer: partly. About 50% right, against 16% for always guessing Water, the most common type. Dragon entries are the hardest to spot.
 
 **🌍 [ASCII Earth](https://github.com/MarcelRochera00/ascii-earth)**
 A spinning Earth made of ASCII characters, lit by where the sun actually is right now.
