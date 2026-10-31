@@ -13,7 +13,7 @@ The code behind a paper in preparation on the identification of candidate pocket
 A social network to post hikes, books, concerts and more. Hikes are drawn on a map from GPX files, and books and setlists are looked up through external APIs.
 
 **🌍 [ASCII Earth web](https://github.com/MarcelRochera00/ascii-earth-web)**
-A spinning Earth made of ASCII characters, lit by where the sun actually is right now. Made in TypeScript and available as an npm package.Inspired by my previous Python version [ascii-earth](https://github.com/MarcelRochera00/ascii-earth).
+A spinning Earth made of ASCII characters, lit by where the sun actually is right now. Made in TypeScript and available as an npm package. Inspired by my previous Python version [ascii-earth](https://github.com/MarcelRochera00/ascii-earth).
 
 **📜 [Pokemon type from Pokedex entry](https://github.com/MarcelRochera00/pokedex-type-prediction)**
 I got curious whether a Pokedex entry gives away a Pokemon's type. The answer: partly. About 50% right, against 16% for always guessing Water, the most common type. Dragon entries are the hardest to spot.
