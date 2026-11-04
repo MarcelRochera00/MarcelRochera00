@@ -6,14 +6,16 @@ I mostly write Python, Ruby on Rails and TypeScript, and I'm learning React.
 
 ## Things I've made
 
-**🧬 [MYC–MAX pocket analysis](https://github.com/MarcelRochera00/identification-of-candidate-pockets-at-the-myc-max-interface)**
-The code behind a paper in preparation on the identification of candidate pockets at the MYC–MAX protein interface.
-
 **⚡ [ActivityFeed](https://github.com/MarcelRochera00/activityfeed)**
 A social network to post hikes, books, concerts and more. Hikes are drawn on a map from GPX files, and books and setlists are looked up through external APIs.
 
 **🌍 [ASCII Earth web](https://github.com/MarcelRochera00/ascii-earth-web)**
 A spinning Earth made of ASCII characters, lit by where the sun actually is right now. Made in TypeScript and available as an npm package. Inspired by my previous Python version [ascii-earth](https://github.com/MarcelRochera00/ascii-earth).
+
+
+**🧬 [MYC–MAX pocket analysis](https://github.com/MarcelRochera00/identification-of-candidate-pockets-at-the-myc-max-interface)**
+The code behind a paper in preparation on the identification of candidate pockets at the MYC–MAX protein interface.
+
 
 **📜 [Pokemon type from Pokedex entry](https://github.com/MarcelRochera00/pokedex-type-prediction)**
 I got curious whether a Pokedex entry gives away a Pokemon's type. The answer: partly. About 50% right, against 16% for always guessing Water, the most common type. Dragon entries are the hardest to spot.
