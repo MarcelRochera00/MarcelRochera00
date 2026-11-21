@@ -20,15 +20,6 @@ The code behind a paper in preparation on the identification of candidate pocket
 **📜 [Pokemon type from Pokedex entry](https://github.com/MarcelRochera00/pokedex-type-prediction)**
 I got curious whether a Pokedex entry gives away a Pokemon's type. The answer: partly. About 50% right, against 16% for always guessing Water, the most common type. Dragon entries are the hardest to spot.
 
-
-## Outside the code
-
-I'm learning watercolor: four months in, and I've painted consistently since the start. I also watched Trainspotting not long ago and loved it.
-
-## Right now
-
-Learning React by building something that isn't on my profile... yet.
-
 ## Contact
 
- marcelrochera9@gmail.com · https://www.linkedin.com/in/marcel-rochera-ortega-449b04339/
+ marcelrochera9@gmail.com · https://www.linkedin.com/in/marcel-rochera/
